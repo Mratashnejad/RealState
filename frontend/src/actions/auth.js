@@ -1,5 +1,5 @@
 import axios from 'axios';
-import {setAlert, SET_ALERT} from './alert';
+import {setAlert} from './alert';
 import {
     SIGNUP_SUCCESS,
     SIGNUP_FAIL,
