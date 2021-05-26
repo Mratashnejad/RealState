@@ -2,7 +2,7 @@ import React , {useState} from 'react';
 import {Helmet, helmet} from 'react-helmet';
 import ListingForm from '../components/ListingForm';
 import Listings from '../components/Listings';
-import pagination from '../components/Pagination';
+import Pagination from '../components/Pagination';
 
 
 const Home = ()=> {
